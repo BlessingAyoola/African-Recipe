@@ -654,7 +654,7 @@ explore template
   flex-wrap: wrap
   justify-content: center;
   padding:20px;
-  background:yellow;
+  background:green;
 
 }
 .contact-form{
@@ -669,3 +669,34 @@ explore template
   font-size:24px;
   margin-bottom:20px
   color:white
+}
+.contact-form form{
+  text-align:center;
+}
+.contact-form label, .contact-form input, .contact-form textarea, .contact-form button{
+  display: block;
+  width:100%;
+  margin-botton: 10px;
+}
+.contact-form button{
+  background-color: black;
+  color:white;
+  text-decoration:none;
+  border:2px solid black;
+  font-weight:bold;
+  transform:4s;
+  padding:10px 0px;
+}
+  .contact-form button:hover{
+    background-colour:grey;
+    color:black
+    border: 2px solid black
+    cursor: pointer;
+  }
+.contact-form label{
+  tex-align:left;
+  color:white
+}
+.contact-form input, .contact-form textarea{
+  padding:8px
+}
