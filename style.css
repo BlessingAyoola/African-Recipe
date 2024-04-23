@@ -714,7 +714,7 @@ explore template
   box-shadow:5px 10px 20px red;
 }
 .icon:hover{
-  width:400px;
+  width:200px;
   cursor:pointer;
   display:flex;
   align-items:center;
