@@ -700,3 +700,7 @@ explore template
 .contact-form input, .contact-form textarea{
   padding:8px
 }
+.ion-icon{
+  color:Red
+  font-size:125px;
+  margin:50px
