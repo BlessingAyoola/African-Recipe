@@ -648,4 +648,24 @@ explore template
   color: var(--grey-700);
 }
 
-   
+/*Contact form*/
+.contact{
+  display:flex:
+  flex-wrap: wrap
+  justify-content: center;
+  padding:20px;
+  background:green;
+
+}
+.contact-form{
+  width:100%;
+  max-width:400px;
+  margin:10px;
+  text-align:center;
+  color:white;
+  font size:25px;
+}
+.contact-form h2{
+  font-size:24px;
+  margin-bottom:20px
+  color:white
