@@ -650,8 +650,8 @@ explore template
 
 /*Contact form*/
 .contact{
-  display:flex:
-  flex-wrap: wrap
+  display:flex;
+  flex-wrap: wrap;
   justify-content: center;
   padding:20px;
   background:green;
@@ -663,7 +663,7 @@ explore template
   margin:10px;
   text-align:center;
   color:white;
-  font size:25px;
+  font-size:25px;
 }
 .contact-form h2{
   font-size:24px;
@@ -689,13 +689,13 @@ explore template
 }
   .contact-form button:hover{
     background-colour:grey;
-    color:black
-    border: 2px solid black
+    color:black;
+    border: 2px solid black;
     cursor: pointer;
   }
 .contact-form label{
-  tex-align:left;
-  color:white
+  text-align:left;
+  color:white;
 }
 .contact-form input, .contact-form textarea{
   padding:8px
