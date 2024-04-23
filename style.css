@@ -703,7 +703,7 @@ explore template
 
 
 
-  .footer
+  
 .icon{
   width:1px;
     height:1vh;
@@ -712,8 +712,8 @@ explore template
   text-align:center;
   font-size:2px;
   line-height:1px;
-  background:red;
-  Colour:white;
+ cursor:pointer;
+  Background:yellow;
 
   
   
