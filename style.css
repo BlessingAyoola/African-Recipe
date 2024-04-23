@@ -700,10 +700,16 @@ explore template
 .contact-form input, .contact-form textarea{
   padding:8px
 }
-.social-icons{
-  background:blue
-  color:white;
-  font-size:145px;
-  margin:50px;
+.icon{
+  width:100px;
+    height:100vh;
+  border-radius:100px;
+  margin:20px;
+  text-align:center;
+  font-size:50px;
+  line-height:100px;
+  font-family:sans-serif;
+  overflow:hidden
+  box-shadow:5px 10px 20px red;
 }
 
