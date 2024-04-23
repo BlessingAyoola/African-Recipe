@@ -705,15 +705,14 @@ explore template
 
   
 .icon{
-  width:1px;
-    height:1vh;
-  border-radius:1px;
+  width:2px;
+    height:2vh;
+  border-radius:2px;
   margin:2px;
   text-align:center;
   font-size:2px;
-  line-height:1px;
- cursor:pointer;
-  Background:yellow;
+  line-height:2px;
+
 
   
   
