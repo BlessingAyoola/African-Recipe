@@ -709,7 +709,7 @@ explore template
   font-size:50px;
   line-height:20px;
   font-family:sans-serif;
-  background:white;
+  
   
   box-shadow:5px 10px 20px red;
 }
@@ -720,27 +720,5 @@ explore template
   align-items:center;
   justify-content: space evenly;
 }
-.icon.hover i{
-  color:white;
-}
-.icon.fa-facebook-f{
-  color:blue;
-}
-.fb:hover{
-  background:blue;
-  
-  .icon.fa-instagram{
-  color:Red;
-}
-.inst:hover{
-  background:Red;
 
-    .icon.fa-github{
-  color:white;
-}
-.git:hover{
-  background:Black;
-}
-  
-  
   
