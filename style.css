@@ -703,4 +703,17 @@ explore template
 
 
 
+  .footer
+.icon{
+  width:1px;
+    height:1vh;
+  border-radius:1px;
+  margin:2px;
+  text-align:center;
+  font-size:2px;
+  line-height:1px;
+  color:white;
+
   
+  
+}
