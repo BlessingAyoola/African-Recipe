@@ -700,6 +700,7 @@ explore template
 .contact-form input, .contact-form textarea{
   padding:8px;
 }
+.footer
 .icon{
   width:5px;
     height:5vh;
@@ -708,8 +709,7 @@ explore template
   text-align:center;
   font-size:10px;
   line-height:5px;
-  font-family:sans-serif;
-  
+
   
   
 }
