@@ -701,8 +701,9 @@ explore template
   padding:8px
 }
 .ion-icon{
+  background:blue
   color:white;
-  font-size:125px;
-  margin:50px
+  font-size:145px;
+  margin:50px;
 }
 
