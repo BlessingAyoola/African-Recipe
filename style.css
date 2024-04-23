@@ -706,11 +706,11 @@ explore template
   
 .icon{
   width:2px;
-    height:2vh;
-  border-radius:2px;
-  margin:2px;
+    height:5vh;
+  border-radius:5px;
+  margin:5px;
   text-align:center;
-  font-size:2px;
+  font-size:5px;
   line-height:2px;
 
 
