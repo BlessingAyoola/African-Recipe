@@ -388,7 +388,7 @@ Recipes
   }
   .explore-container {
     order: 0;
-    /* background: blue; */
+    background: blue; 
   }
   .explore-list {
     display: grid;
@@ -404,11 +404,6 @@ Recipes
     grid-template-columns: 1fr 1fr 1fr;
   }
 
-
-  
-
-  
-}
 
 /*
 =============== 
