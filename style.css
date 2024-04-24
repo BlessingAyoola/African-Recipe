@@ -274,7 +274,7 @@ Hero
 */
 
 .hero {
-  height: 40vh;
+  height: 20vh;
   position: relative;
   margin-bottom: 2rem;
   background: url('../images/Injerra.jpeg') center/cover no-repeat;
